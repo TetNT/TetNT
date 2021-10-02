@@ -1,4 +1,4 @@
-👋 Hi, I’m @TetNT and I'm a self-taught mobile developer. For now I'm coding in Android Studio and implementing small but interesting apps.
+👋 Hi, I’m @TetNT and I'm a *mostly* self-taught developer. For now I'm coding with Python and implementing small but interesting apps.
 
 <!---
 TetNT/TetNT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
