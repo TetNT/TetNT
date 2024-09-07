@@ -1,4 +1,4 @@
-👋 Hi, I’m @TetNT and I'm a self-taught developer. For now I'm coding with Kotlin and Java.
+The dude behind TypeGo and some other little projects.
 
 <!---
 TetNT/TetNT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
