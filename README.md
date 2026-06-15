@@ -1,6 +1,1 @@
-The dude behind TypeGo and some other little projects.
-
-<!---
-TetNT/TetNT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Working on my own small projects as a pastime activity, primarily some utility programs and scripts to ease my life.
